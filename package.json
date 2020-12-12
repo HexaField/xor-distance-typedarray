@@ -1,6 +1,6 @@
 {
     "name": "xor-distance-typedarray",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "Calculate the distance between two ArrayBuffers as a new ArrayBuffer and compare computed distances with eachother",
     "main": "index.js",
     "dependencies": {},
